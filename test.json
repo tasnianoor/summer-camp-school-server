@@ -1,0 +1,44 @@
+[
+    {
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "instructorImage": "https://www.interior-news.com/wp-content/uploads/2022/12/31052253_web1_171101-SIN-art-gallery--17-2017103004647551-1024x683.jpg",
+      "classImage": "https://ual-media-res.cloudinary.com/image/fetch/c_fill,f_auto,q_auto,g_auto,g_auto/w_2000/https://www.arts.ac.uk/__data/assets/image/0031/359563/OnlineShortCourses22.jpg",
+      "role": "Instructor"
+    },
+    {
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com",
+      "instructorImage": "https://theartofeducation.edu/wp-content/uploads/2015/05/art-teacher-artists.jpg",
+      "classImage": "https://thumbs.dreamstime.com/z/portrait-senior-art-teacher-leaning-over-easel-to-watch-little-student-painting-pictures-school-copy-space-children-class-115101848.jpg",
+      "role": "Instructor"
+    },
+    {
+      "name": "David Johnson",
+      "email": "david.johnson@gmail.com",
+      "instructorImage": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FYHKpLNL87exWVabDF0JRdQ%252FIMG_3884-crop.jpg&width=910",
+      "classImage": "https://i.pinimg.com/originals/06/5d/fb/065dfb4a8acc2c57341e1ac3d9985d55.jpg",
+      "role": "Instructor"
+    },
+    {
+      "name": "Emily Wilson",
+      "email": "emily.wilson@gmail.com",
+      "instructorImage": "https://img.freepik.com/premium-photo/cute-female-teacher-drawing-scheme_13339-178207.jpg?w=360",
+      "classImage": "https://wallpapercave.com/wp/wp3080637.jpg",
+      "role": "Instructor"
+    },
+    {
+      "name": "Michael Brown",
+      "email": "michael.brown@gmail.com",
+      "instructorImage": "https://images.squarespace-cdn.com/content/v1/51537c21e4b0807a0dce3423/1591827918055-0XDBF4NSLMCM2OYW8D9T/joe4b.JPG?format=500w",
+      "classImage": "https://www.drawingskill.com/wp-content/uploads/5/Color-Sketch-Drawing-High-Quality.jpg",
+      "role": "Instructor"
+    },
+    {
+      "name": "Sophia Lee",
+      "email": "sophia.lee@gmail.com",
+      "instructorImage": "https://www.unicef.org/eu/sites/unicef.org.eu/files/styles/hero_extended/public/50516644557_fb6ac64f48_o.jpg?itok=-7_pu7Wz",
+      "classImage": "https://favim.com/pd/s13/orig/160613/colour-drawing-feather-paper-Favim.com-4406223.jpeg",
+      "role": "Instructor"
+    }
+  ]

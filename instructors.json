@@ -1,0 +1,39 @@
+
+[
+    {
+      "image": "https://i.ibb.co/sQSvYWS/Zen-Flow.webp",
+      "className": "Zen Flow",
+      "seats": 15,
+      "price": 20
+    },
+    {
+      "image": "https://i.ibb.co/B6n3nND/Power-Ignite.webp",
+      "className": "Power Ignite",
+      "seats": 10,
+      "price": 25
+    },
+    {
+      "image": "https://i.ibb.co/YNmnTLw/Blissful-Balance.jpg",
+      "className": "Blissful Balance",
+      "seats": 12,
+      "price": 30
+    },
+    {
+      "image": "https://i.ibb.co/wNg8TF3/Yoga-Nidra-Journey.jpg",
+      "className": "Yoga Nidra Journey",
+      "seats": 8,
+      "price": 18
+    },
+    {
+      "image": "https://i.ibb.co/zHbmmw9/Rise-and-Shine-Yoga.webp",
+      "className": "Rise and Shine Yoga",
+      "seats": 20,
+      "price": 22
+    },
+    {
+      "image": "https://i.ibb.co/HqFnHK2/Yoga-Sculpt-Fusion.jpg",
+      "className": "Yoga Sculpt Fusion",
+      "seats": 15,
+      "price": 28
+    }
+  ]
